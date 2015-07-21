@@ -9,6 +9,7 @@
 
   "author": "",
   "license": "ISC",
+
   "dependencies": {
     "express": "4.2.x",
     "package-json-validator": "^0.5.6",
