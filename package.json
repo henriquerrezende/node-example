@@ -12,7 +12,7 @@
     "express": "4.2.x",
     "package-json-validator": "^0.5.6",
     "optimist": ">= 0.1.0",
-    "node-sass": "3.2.0"
+    "node-sass": "3.3.0"
   }
 }
 
